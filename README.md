@@ -1,3 +1,3 @@
 # PHP-BasicShop
 
-using Html Boostrap PHP MySQL 
+Using Html Boostrap PHP MySQL 
